@@ -25,12 +25,12 @@ You will need to do a npm install to install all the packages and npm run start 
 
 ## Credits
 
-Javascript
-Node.js
-idb: ^6.1.2
+Javascript,
+Node.js,
+idb: ^6.1.2,
 express: ^4.17.1,
 concurrently: ^5.2.0,
-nodemon: ^2.0.4
+nodemon: ^2.0.4,
 code-mirror-themes: ^1.0.0,
 @babel/core: ^7.15.0,
 @babel/plugin-proposal-object-rest-spread: ^7.20.7,
@@ -46,7 +46,7 @@ webpack: ^5.51.1,
 webpack-cli: ^4.8.0,
 webpack-dev-server: ^4.0.0,
 webpack-pwa-manifest: ^4.3.0,
-workbox-webpack-plugin: ^6.2.4
+workbox-webpack-plugin: ^6.2.4.
 
 ## License
 
